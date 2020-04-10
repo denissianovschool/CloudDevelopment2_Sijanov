@@ -11,7 +11,7 @@ namespace CloudDevelopment2_Sijanov
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            MyLabel.Text = "Hello World from Azure";
+            MyLabel.Text = "Hello World from Azure via GitHub";
         }
     }
 }
